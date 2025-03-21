@@ -17,3 +17,7 @@ juan.sayHello();
 const maria = new Person('Maria', 38);
 maria.sayHello();
 
+
+let status = false;
+
+juan.status = status;
