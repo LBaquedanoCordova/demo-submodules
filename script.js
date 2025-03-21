@@ -13,3 +13,7 @@ class Person {
 
 const juan = new Person('Juan', 15);
 juan.sayHello();
+
+const maria = new Person('Maria', 38);
+maria.sayHello();
+
